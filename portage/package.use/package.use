@@ -1,0 +1,6 @@
+x11-terms/rxvt-unicode perl xft
+x11-base/xorg-server suid elogind
+# app-emulation/virtualbox-guest-additions X
+media-sound/ncmpcpp clock curl outputs taglib visualizer
+media-video/mpv cli libmpv
+x11-misc/xwallpaper jpeg png
