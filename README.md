@@ -1,0 +1,2 @@
+# gentoo
+My gentoo dotfiles
