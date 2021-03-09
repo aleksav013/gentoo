@@ -1,2 +1,2 @@
 # gentoo
-My gentoo dotfiles
+My gentoo portage files and virtualbox kernel config
